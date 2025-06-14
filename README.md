@@ -30,6 +30,6 @@ Two boxes styled using different colors, margins, paddings, and borders.
 
 ## 🚀 Getting Started
 
-You can clone or download this repo and open `index.html` in your browser.
+You can clone or download this repo and open 'https://akshatcoder40.github.io/Css-day-one' in your browser.
 
 https://github.com/akshatcoder40/css-day-one.git
